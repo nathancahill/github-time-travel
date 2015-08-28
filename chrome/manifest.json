@@ -1,0 +1,18 @@
+{
+    "manifest_version": 2,
+    "name": "Github Commit Dates",
+    "version": "1.0.0",
+    "description": "Browse commits by date on Github",
+    "author": "Nathan Cahill",
+    "permissions": ["https://*.github.com/", "tabs"],
+    "background": {
+        "persistent": false,
+        "scripts": ["background.js"]
+    },
+    "content_scripts": [{
+        "matches": ["https://*.github.com/*/*"],
+        "css": ["pikaday/pikaday.css"],
+        "js": ["pikaday/pikaday.js", "github-commit-dates.js"]
+    }
+  ]
+}
