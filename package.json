@@ -1,0 +1,12 @@
+{
+  "title": "Github Commit Dates",
+  "name": "github-commit-dates",
+  "version": "1.0.0",
+  "description": "Browse commits by date on Github",
+  "main": "index.js",
+  "author": "Nathan Cahill",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT"
+}
