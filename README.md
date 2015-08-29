@@ -7,4 +7,4 @@
 Browser extension for browsing commits by date on Github.
 
  - Firefox: https://addons.mozilla.org/en-US/firefox/addon/github-time-travel/
- - Chrome: https://chrome.google.com/webstore/detail/github-commit-dates/gdaikofkgknonbdhgomechckcjlcpgpg
+ - Chrome: https://chrome.google.com/webstore/detail/github-time-travel/gdaikofkgknonbdhgomechckcjlcpgpg
