@@ -1,6 +1,6 @@
 {
   "title": "Github Time Travel",
-  "name": "github-time-travel",
+  "name": "github-commit-dates",
   "version": "1.0.1",
   "description": "Browse commits by date on Github",
   "main": "index.js",
