@@ -1,3 +1,5 @@
+<img src="http://i.imgur.com/2B2HHhv.png" align="right" />
+
 ## Github Time Travel
 
 ![](http://i.imgur.com/nL9FpdH.png)
