@@ -1,4 +1,4 @@
-<img src="http://i.imgur.com/D48H2v9.png" align="right" />
+<img src="http://i.imgur.com/lZSI2m1.png" align="right" />
 
 ## Github Time Travel
 
